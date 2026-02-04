@@ -1,16 +1,24 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andrew+Veliksar!;" />
 </h1>
+
 ###
 
 As a WordPress developer, I have extensive experience in designing and implementing custom WordPress websites, themes, and plugins. I am highly skilled in PHP, HTML, CSS, JavaScript, and other web dev technologies. With a deep understanding of user experience design, I am able to create highly functional and visually appealing websites that are responsive and optimized for search engines. I strive for high quality work and do my best to achieve the best possible outcome for the client's business.
 
 ###
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
