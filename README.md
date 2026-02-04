@@ -71,3 +71,6 @@ As a WordPress developer, I have extensive experience in designing and implement
 </div>
 
 ###
+
+
+<img src="[https://raw.githubusercontent.com/Veliksar/Veliksar/output/snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
