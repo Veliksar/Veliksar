@@ -84,5 +84,10 @@ As a WordPress developer, I have extensive experience in designing and implement
 
 ###
 
-
-<img src="[https://raw.githubusercontent.com/Veliksar/Veliksar/output/snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
