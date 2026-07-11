@@ -10,7 +10,9 @@
 
 ###
 
-As a WordPress developer, I have extensive experience in designing and implementing custom WordPress websites, themes, and plugins. I am highly skilled in PHP, HTML, CSS, JavaScript, and other web dev technologies. With a deep understanding of user experience design, I am able to create highly functional and visually appealing websites that are responsive and optimized for search engines. I strive for high quality work and do my best to achieve the best possible outcome for the client's business.
+WordPress Developer with 6+ years of commercial experience building and maintaining production websites for US and EU clients - from agency white-label delivery to Tech Lead on a high-traffic WooCommerce platform with a 3000+ SKU catalog.
+
+I specialize in custom WordPress development rather than template-based assembly. My work covers the full lifecycle: requirements analysis, architecture decisions, theme and feature development, performance tuning, deployment support, and handoff to content teams with editable, editor-friendly admin experiences.
 
 ###
 
