@@ -17,9 +17,13 @@ I specialize in custom WordPress development rather than template-based assembly
 Core focus areas:
 
 • Custom theme development from scratch - PHP, ACF Pro, Flexible Content, child themes, Sage-based setups (Blade, Tailwind)
+
 • WooCommerce - large catalogs, custom checkout and cart logic, product filters, B2B flows, lead capture, third-party integrations
+
 • Gutenberg - custom blocks, block patterns, ACF + block editor workflows that give editors flexibility without page-builder lock-in
+
 • Performance & scalability - Core Web Vitals, query optimization, script and asset cleanup, caching strategies; proven results improving mobile PageSpeed from ~67 to ~91 and desktop from ~78 to ~98 on a live high-SKU store under
+
 
 ###
 
